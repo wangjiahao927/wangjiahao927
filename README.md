@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Ван Цзяхao 👋
 
-<!--
-**wangjiahao927/wangjiahao927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Студент компьютерной специальности, увлекаюсь технологиями и открытым исходным кодом (Open Source).20лет
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Интересы
+
+- Программирование и разработка ПО 💻
+- Системное администрирование Linux 🐧
+- Чтение технической литературы 📚
+- Энтузиаст открытого исходного кода
+
+---
+
+**Бакалавриат** | РУДН | 2024 – 2026
+- Специальность: Компьютерные науки и математика
+- Основные курсы: Структуры данных и алгоритмы, Операционные системы, Компьютерные сети
